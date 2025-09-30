@@ -20,7 +20,7 @@ Android (APK available in Releases)
 Built with Unity (2D project)
 
 ## Credits
-**Developer: Mahnoor Yasir ** 
+Developer: Mahnoor Yasir 
 
 
 
